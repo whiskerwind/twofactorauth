@@ -1,0 +1,12 @@
+{
+  "Coinapult": {
+    "domain": "coinapult.com",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "https://coinapult.com/faq",
+    "keywords": [
+      "cryptocurrencies"
+    ]
+  }
+}

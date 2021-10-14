@@ -1,0 +1,13 @@
+{
+  "Userify": {
+    "domain": "userify.com",
+    "tfa": [
+      "totp",
+      "custom-hardware"
+    ],
+    "documentation": "https://userify.com/docs/multifactor-authentication/",
+    "keywords": [
+      "cloud"
+    ]
+  }
+}

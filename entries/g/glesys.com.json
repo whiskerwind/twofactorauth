@@ -1,0 +1,18 @@
+{
+  "GleSYS": {
+    "domain": "glesys.com",
+    "tfa": [
+      "totp",
+      "custom-hardware"
+    ],
+    "custom-hardware": [
+      "YubiKey OTP"
+    ],
+    "keywords": [
+      "hosting"
+    ],
+    "regions": [
+      "se"
+    ]
+  }
+}
